@@ -1,0 +1,2 @@
+# The documentation folder holds your conceptual journey.
+By making the template files, you record how you tackle a task, your vision and the journey to the solution. This is important because after a while the interconnected information is lost. It helps others understanding the WHY behind what you did. Especially as more collaborators will take over some of the work.
