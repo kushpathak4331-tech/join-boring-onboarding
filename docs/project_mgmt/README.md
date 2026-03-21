@@ -1,0 +1,2 @@
+# README PROJECT MANAGEMENT
+This folder holds the templates that will be used for audits. An audit is a process where auditors check if all requirements are met by the grant rules. These files keep track of the project meta data.
